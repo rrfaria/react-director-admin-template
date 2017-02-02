@@ -1,12 +1,6 @@
 ReactJS version of Director Responsive Admin Template Free
 ==========
 
-Credits to [web-apps.ninja](http://web-apps.ninja/director-free-responsive-admin-template/) for giving us the original template for free :clap:.
-
-## Preview
-![preview](https://raw.githubusercontent.com/MacKentoch/react-director-admin-template/master/preview/preview.png)
-
-[Launch preview here](https://mackentoch.github.io/react-director-admin-template)
 
 ## Content
 
